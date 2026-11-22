@@ -1,4 +1,3 @@
-# Project_SQL
 # Restaurant Database Management System
 
 A relational database in MySQL for restaurant operations and customer orders, with SQL queries that report on member spending, order activity, and the meal menu.
